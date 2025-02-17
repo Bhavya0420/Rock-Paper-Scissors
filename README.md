@@ -34,7 +34,7 @@ A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**, whe
 3. Open `index.html` in your browser.
 
 ## Demo
-You can try the game [here](#)
+You can try the game [here](https://bhavya0420.github.io/Rock-Paper-Scissors/)
 
 ## Contributing
 Feel free to fork this repository and improve the game. Pull requests are welcome!
